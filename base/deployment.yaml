@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: expapp
-          image: youcef26/expimage:latest              # <-- this is what what we willl   change 
+          image: youcef26/expimage:17
           ports:
             - containerPort: 3000
